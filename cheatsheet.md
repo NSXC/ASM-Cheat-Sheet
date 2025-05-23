@@ -8,6 +8,8 @@
 | **RDI**  | **Destination index** for string/memory ops  | `mov rdi, dest_ptr`                               |
 | **RBP**  | **Base pointer** for stack frames (optional) | Used for local vars in functions                  |
 | **RSP**  | **Stack pointer**                            | Always points to top of the stack                 |
+
+
 | Instruction | What it Does                         | Example                            |
 | ----------- | ------------------------------------ | ---------------------------------- |
 | `mov`       | Move/copy data between locations     | `mov rax, rbx`                     |
