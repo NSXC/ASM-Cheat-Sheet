@@ -10,7 +10,7 @@
 | **RSP**  | **Stack pointer**                            | Always points to top of the stack                 |
 
 
-| Instruction | What it Does                         | Example                            |
+| Instruction | Purpose                              | Example Use                        |
 | ----------- | ------------------------------------ | ---------------------------------- |
 | `mov`       | Move/copy data between locations     | `mov rax, rbx`                     |
 | `lea`       | Load address of a memory operand     | `lea rax, [rbx+4]`                 |
